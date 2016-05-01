@@ -212,6 +212,18 @@ a:visited{
 .last3 a:visited{
   text-decoration: none;
 }
+@media screen and (max-width: 700px) {
+    .infotop{
+      float: left;
+      font-size: 28px;
+     }
+}
+@media screen and (max-width: 700px) {
+    .infobottom{
+      float: left;
+      font-size: 28px;
+     }
+}
 /* =======================================
     Layout
     keep this at the bottom
